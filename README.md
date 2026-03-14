@@ -1,17 +1,22 @@
-# mini_katalog
+# 🚀 Teknoloji & Akıllı Ev Katalog Uygulaması
 
-A new Flutter project.
+Bu proje, Flutter kullanılarak geliştirilmiş modern ve temel seviye bir mobil katalog uygulamasıdır. İçerisinde üst düzey donanım bileşenleri ve akıllı ev otomasyon cihazlarının listelendiği, sayfa geçişlerinin ve basit bir sepet state yönetiminin simüle edildiği bir yapı bulunmaktadır.
 
-## Getting Started
+## 📝 Proje Özeti
+Mini Katalog Uygulaması, kullanıcıların ürünleri listeleyebildiği, ürün detaylarını inceleyebildiği ve bu ürünleri sepetlerine ekleyebildiği bir arayüz sunar. Tasarım, tamamen özelleştirilmiş ve teknoloji/SaaS vizyonuna uygun olarak geliştirilmiştir.
+- Stateless ve Stateful widget kullanımı
+- `GridView` ile dinamik ürün listeleme
+- `Navigator` ile sayfalar arası geçiş ve veri taşıma (Route Arguments)
+- Sepet (Cart) durum güncelleme simülasyonu
 
-This project is a starting point for a Flutter application.
+## 🛠 Kullanılan Teknolojiler
+- **Framework:** Flutter
+- **Dil:** Dart
+- **Flutter Sürümü:** 3.x.x *(Kendi sürümünü buraya yazabilirsin, terminale `flutter --version` yazarak öğrenebilirsin)*
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Çalıştırma Adımları
+Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Projeyi bilgisayarınıza klonlayın:
+   ```bash
+   git clone [https://github.com/KULLANICI_ADIN/mini_katalog.git](https://github.com/KULLANICI_ADIN/mini_katalog.git)
